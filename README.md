@@ -1,6 +1,4 @@
 # SCT_ML_2
-**Description for GitHub:**   Develop a K-means clustering algorithm to segment retail store customers based on their purchase history. Analyze customer behavior, identify patterns, and group similar customers to improve marketing strategies, customer retention, and personalized offerings.
-
 # Customer Segmentation using K-Means Clustering
 
 This repository provides a Python implementation of K-Means clustering for segmenting retail store customers based on their purchase behavior. The algorithm groups customers into clusters using features such as Annual Income and Spending Score, enabling data-driven decision-making for marketing strategies.
