@@ -3,7 +3,7 @@
 
 This repository provides a Python implementation of K-Means clustering for segmenting retail store customers based on their purchase behavior. The algorithm groups customers into clusters using features such as Annual Income and Spending Score, enabling data-driven decision-making for marketing strategies.
 
----
+
 
 ## Features
 
@@ -11,7 +11,7 @@ This repository provides a Python implementation of K-Means clustering for segme
 - **Visualization**: Generates 2D scatter plots of clusters and centroids for intuitive understanding of customer segments.
 - **Scalable**: Designed to handle datasets with multiple numerical features efficiently.
 
----
+
 
 ## Dataset
 
@@ -23,7 +23,7 @@ The dataset used for this implementation is `Mall_Customers.csv`, which contains
 - `Annual Income (k$)`: Annual income in thousands of dollars.
 - `Spending Score (1-100)`: A score assigned based on spending behavior and purchasing patterns.
 
----
+
 
 ## Results
 
@@ -38,14 +38,12 @@ The script produces the following outputs:
 3. **Exported Data**:
    - Clustered data is saved as a CSV file (`Clustered_Customers.csv`) in the project directory.
 
----
+
 
 
 ## Acknowledgments
 
 - The dataset is publicly available and used for educational purposes.
 - Built using the `scikit-learn`, `matplotlib`, and `seaborn` libraries.
-
----
 
 
