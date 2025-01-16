@@ -23,11 +23,6 @@ The dataset used for this implementation is `Mall_Customers.csv`, which contains
 - `Annual Income (k$)`: Annual income in thousands of dollars.
 - `Spending Score (1-100)`: A score assigned based on spending behavior and purchasing patterns.
 
-### Steps to Use:
-1. Specify the features to use for clustering (e.g., Annual Income and Spending Score).
-2. Define the number of clusters manually or use the Elbow Method for guidance.
-3. View the generated visualizations and clustered data.
-
 ---
 
 ## Results
@@ -50,10 +45,6 @@ The script produces the following outputs:
 
 - The dataset is publicly available and used for educational purposes.
 - Built using the `scikit-learn`, `matplotlib`, and `seaborn` libraries.
-
----
-
-
 
 ---
 
